@@ -4,7 +4,7 @@
 
 body {
   width: 100%;
-  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
   color: #333;
   margin: 0;
 }
@@ -41,7 +41,7 @@ body {
 
 .btn-tweet {
   margin-top: 10px;
-  background-color: #33cc00;
+  background-color:blue;
   color: #fafafa;
   font-size: 16px;
   float: right;
@@ -52,11 +52,11 @@ body {
 }
 
 .btn-tweet:hover {
-  background-color: #4DE61A;
+  background-color:lightblue;
 }
 
 .btn-tweet:active {
-  background-color: #009900;
+  background-color: red;
 }
 
 .tweet-time {
